@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capitulo01.Variaveis", "Cap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capitulo01.Troco", "Capitulo01.Troco\Capitulo01.Troco.csproj", "{3CE8C7C7-857D-4416-B1A0-83D24C12F67A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capitulo02.Fretes", "Capitulo02.Fretes\Capitulo02.Fretes.csproj", "{A2F4274C-A0F2-4758-B155-1093F79DDDB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3CE8C7C7-857D-4416-B1A0-83D24C12F67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CE8C7C7-857D-4416-B1A0-83D24C12F67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CE8C7C7-857D-4416-B1A0-83D24C12F67A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F4274C-A0F2-4758-B155-1093F79DDDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F4274C-A0F2-4758-B155-1093F79DDDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F4274C-A0F2-4758-B155-1093F79DDDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F4274C-A0F2-4758-B155-1093F79DDDB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
